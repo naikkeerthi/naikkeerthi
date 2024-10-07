@@ -13,13 +13,6 @@
 
 - ⚡ Fun fact **`NaN` (Not a Number) is actually of type `'number'` in JavaScript.**
 
-<h3 align="left">Connect with me: 7847803912 </h3>
-<p align="left">
-</p>
-
-<br />
-<br />
-<br />
  
 <h1 align="center">Languages and Tools 💻</h1>
  
