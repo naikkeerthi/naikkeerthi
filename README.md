@@ -109,10 +109,10 @@
   <h1 align="center">Connect with me:</h1>
  
   <p align="center">
-<a href="https://twitter.com/https://twitter.com/shreekarakanchi" target="blank"><img align="center"
+<a href="" target="blank"><img align="center"
         src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png"
         alt="https://twitter.com/shreekarakanchi" height="32" width="32" /></a>&nbsp &nbsp
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shreenivas-karakanchi-085b3217" target="blank"><img
+<a href="" target="blank"><img
         align="center"
         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkNvmW6hjy2OWs-d-7ZzmHLhqtycFAv-V4Qyob6WUYqA&s"
         alt="https://www.linkedin.com/in/shreenivas-karakanchi-085b3217" height="32" width="32" /></a>
