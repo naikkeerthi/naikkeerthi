@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keerthi Prakash</h1>
 <h3 align="center">I graduated with a degree in Mechanical Engineering from Visvesvaraya Technological University🎓, and I am a dedicated learner eager to tackle challenges across various technologies and domains 💡. My passion lies in exploring new technologies and applying them creatively to solve real-world problems 👨🏻‍💻, with a current focus on Web Development 🤓.</h3>
 
- <img src="https://camo.githubusercontent.com/0d7296a7db1677521ce57d79c1f29b932435f41b40a3704ca511e71e0b2bc771/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966" alt="oracle" />
+ <img src="https://cdn.sanity.io/images/hvk0tap5/production/f41e4d86f6d0134e519c8fa1a16cfb7ab34cb047-1920x1080.png?w=2000&fm=webp&fit=max&auto=format" alt="oracle" />
 
 - 🔭 I’m currently working on **Frontend**
 
