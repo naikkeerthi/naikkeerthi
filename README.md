@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Keerthi Prakash</h1>
 <h3 align="center">I graduated with a degree in Mechanical Engineering from Visvesvaraya Technological University🎓, and I am a dedicated learner eager to tackle challenges across various technologies and domains 💡. My passion lies in exploring new technologies and applying them creatively to solve real-world problems 👨🏻‍💻, with a current focus on Web Development 🤓.</h3>
 
+<p> <img src="https://komarev.com/ghpvc/?username=naikkeerthi&label=Profile%20views&color=0e75b6&style=flat"
+    alt="keerthi prakash" /> </p>
+    
  <img src="https://itproger.com/img/courses/1562742594.png" alt="oracle" />
 
 - 🔭 I’m currently working on **Frontend**
